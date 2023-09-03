@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "name": "xxx",
+            "method": "GET",
+            "url": "https://xxx.xxx/xxx",
+            "headers": {},
+            "body": {},
+            "success_reg": "xxx",
+            "repeat_reg": "xxx",
+            "type": "aiohttp"
+        }
+    ]
+}
