@@ -7,10 +7,10 @@
 
 ## 文件说明
 
-├─config_template.json                  配置文件模板内容
-├─pt_sign_aiohttp.py                    入口
-├─readme.md                             说明文件
-└─requirements.txt                      依赖文件
+├─config_template.json                  配置文件模板内容  
+├─pt_sign_aiohttp.py                    入口  
+├─readme.md                             说明文件  
+└─requirements.txt                      依赖文件  
 
 ### config_template.json
 

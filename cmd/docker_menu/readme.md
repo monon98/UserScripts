@@ -6,8 +6,8 @@
 
 ## 文件说明
 
-├─start.bat                      启动批处理脚本
-└─readme.md                      说明文件
+├─start.bat                      启动批处理脚本  
+└─readme.md                      说明文件  
 
 ## 使用说明
 
